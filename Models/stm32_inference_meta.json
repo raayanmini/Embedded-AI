@@ -1,0 +1,31 @@
+{
+  "seed": 42,
+  "class_names": {
+    "0": "COLD",
+    "1": "NORMAL",
+    "2": "HOT"
+  },
+  "class_rules_celsius": {
+    "COLD": "temperature < 27.0",
+    "NORMAL": "27.0 <= temperature < 35.0",
+    "HOT": "temperature >= 35.0"
+  },
+  "training_coverage_celsius": {
+    "min": 20.0,
+    "max": 45.0
+  },
+  "normalize": {
+    "mean": 31.027591705322266,
+    "std": 4.349761962890625
+  },
+  "int8_io_quant": {
+    "input": {
+      "scale": 0.02221568115055561,
+      "zero_point": -17
+    },
+    "output": {
+      "scale": 25.929418563842773,
+      "zero_point": 121
+    }
+  }
+}
