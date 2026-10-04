@@ -162,7 +162,7 @@ Embedded-AI/
 │   └── temperature_classifier_logits_int8.tflite
 │
 ├── Test/
-│   └── LM35_AI_BOUNDARY_TEST_CASES.csv
+│   └── lm35_temperature_dataset_anchored_clean.csv
 │
 └── STM32/
     └── LM35_AI/
