@@ -896,7 +896,7 @@ https://www.ti.com/lit/ds/symlink/lm35.pdf
 
 ## 15. About
 
-This repository is maintained by **Kernel Masters** as part of ongoing work in:
+This repository is maintained by **Raayan Systems** as part of ongoing work in:
 
 - Embedded Systems
 - Microcontrollers
