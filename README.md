@@ -236,12 +236,21 @@ If another X-CUBE-AI version is used, regenerate the AI code and runtime togethe
 
 ## 5. Deploy the Model to RaayanMini
 
-### 5.1 Clone the repository
+### 5.1 Download the repository
 
-```bash
-git clone <repository-url>
-cd Embedded-AI
+From the GitHub repository page:
+
+1. Click **Code**.
+2. Select **Download ZIP**.
+3. Extract the downloaded ZIP file to a local folder.
+
+For example:
+
+```text
+C:\Embedded_AI\
 ```
+
+After extraction, open the project from the extracted repository folder.
 
 Verify that the following file exists:
 
